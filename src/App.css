@@ -120,7 +120,6 @@ color: #0077B5;
 }
 
 .contact-grid p{
-  font-family: 'Oxygen', sans-serif;
   font-weight: bold;
   font-size: 17.5px;
 
@@ -135,9 +134,12 @@ color: #0077B5;
 .contact-list i {
   font-size: 66px;
   justify-content: center;
-
   padding-right: 5rem;
+  margin-left: 10rem;
+    /*padding-right: 5rem;*/
 }
+
+
 
 /*resume page*/
 .resume-right-col{
@@ -153,4 +155,8 @@ padding: 2em;
 
 .Btn {
   width: 37%;
+}
+
+.res{
+  padding-right: 10px;
 }

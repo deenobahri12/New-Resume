@@ -8,8 +8,8 @@ class Skills extends Component {
                 <Cell col={12}>
                 <div style ={{display: 'flex'}}>
                 {this.props.skill}
-                <ProgressBar indeterminate style={{margin: 'auto', width: '75%'}}
-                progress={this.props.progress} />
+                <ProgressBar progress={95} buffer={87} style={{margin: 'auto', width: '75%'}}/>
+                {this.props.progress} 
                 </div>
                 </Cell>
             </Grid>
@@ -18,3 +18,5 @@ class Skills extends Component {
 }
 
 export default Skills;
+
+// <ProgressBar progress={33} buffer={87} />
