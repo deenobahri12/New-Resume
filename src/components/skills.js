@@ -8,7 +8,7 @@ class Skills extends Component {
                 <Cell col={12}>
                 <div style ={{display: 'flex'}}>
                 {this.props.skill}
-                <ProgressBar progress={95} buffer={87} style={{margin: 'auto', width: '75%'}}/>
+                <ProgressBar progress={95} buffer={87} style={{margin: 'auto', width: '75%', }}/>
                 {this.props.progress} 
                 </div>
                 </Cell>

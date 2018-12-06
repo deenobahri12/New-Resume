@@ -22,8 +22,8 @@ class Resume extends Component {
                 <h4 style={{color: 'grey'}}>Programmer</h4>
         
                 <hr style={{borderTop: '3px solid black', width: '50%'}}/>        
-                <p style={{fontSize: 21, fontFamily: 'oxygen'}}>
-                Hello, my name is Deeno. I'm a Full stack Software Developer in the Twin Cities Metro area.
+                <p style={{fontSize: 21, fontFamily: 'Arial, Helvetica, sans-serif'}}>
+                Hello, I'm a Full stack Software Developer in the Twin Cities Metro area.
                 I love to learn and coding is my passion.
                 </p>
                  
@@ -32,7 +32,7 @@ class Resume extends Component {
                  <p style={{fontSize: 21, fontFamily: 'oxygen'}}>Minneapolis, Minnesota</p>
                 
                 <h4><i className="fa fa-phone-square res" aria-hidden="true"/>Phone</h4>                
-                 <p style={{fontSize: 21}}>612 747 9100</p>
+                 <p style={{fontSize: 21}}>(612) 747-9100</p>
                 
                 <h4><i className="fa fa-envelope res" aria-hidden="true"/>Email</h4>
                  <p style={{fontSize: 21, fontFamily: 'oxygen'}}>deenobahri12@gmail.com</p>
@@ -84,9 +84,13 @@ class Resume extends Component {
                 startYear='2016'
                 endYear='2018'
                 jobName="Software Development"
-                jobDescription="Began with python for 8 months. After that time spent with python, I switched gears to  
-                javaScript and the Frameworks/Libraries surrounding JavaScript"
-                />
+                jobDescription={<p>•Mern Stack Development 
+                                <hr/>   
+                                •Heavy experience in JavaScript Application Development
+                                <hr/>   
+                                •Solid base in python</p>}
+               
+               />
                 <hr style={{borderTop: '3px solid #833fb2'}} />
                 <h2>Education</h2>
                 <Education 
@@ -102,4 +106,5 @@ class Resume extends Component {
         )
     }
 }
+
  export default Resume;
