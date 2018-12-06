@@ -9,7 +9,7 @@ class Contact extends Component {
             <div className="contact-body">
             <Grid className="contact-grid">
             <Cell col={6}>
-            <h2>Deeno Bahri</h2>
+            <h2 style={{fontFamily: 'Arial black'}}>Deeno Bahri</h2>
             <img 
             src={mainLogo}
            alt="avatar"
@@ -21,7 +21,7 @@ class Contact extends Component {
            </p>
             </Cell>
             <Cell col={6}>
-            <h2>Contact Me</h2>
+            <h2 style={{fontFamily: 'Arial black'}}>Contact Me</h2>
             <hr/>
             <div className="contact-list">
          <List>

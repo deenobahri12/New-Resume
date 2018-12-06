@@ -18,7 +18,7 @@ class About extends Component {
                     </Cell>
 
                     <Cell className="resume-right-col" col={8}>
-                    <h1 style={{fontFamily: 'Anton'}}>About Me</h1>
+                    <h1 style={{fontFamily: 'Arial black'}}>About Me</h1>
 
                     <hr style={{borderTop: '3px solid #833fb2'}} />
                     
