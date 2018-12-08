@@ -25,7 +25,7 @@ class Contact extends Component {
             <hr/>
             <div className="contact-list">
          <List>
-             <ListItem>
+            <ListItem>
                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                  <i className="fa fa-phone-square con" aria-hidden="true"/>
                  (612) 747-9100</ListItemContent>
