@@ -84,11 +84,12 @@ class Resume extends Component {
                 startYear='2016'
                 endYear='2018'
                 jobName="Software Development"
-                jobDescription={<p>•Mern Stack Development 
-                                <hr/>   
-                                •Heavy experience in JavaScript Application Development
-                                <hr/>   
-                                •Solid base in python</p>}
+                jobDescription=
+                {<p>•Mern Stack Development 
+                 <hr/>   
+                    •Heavy experience in JavaScript Application Development
+                 <hr/>   
+                    •Solid base in python</p>}
                
                />
                 <hr style={{borderTop: '3px solid #833fb2'}} />
