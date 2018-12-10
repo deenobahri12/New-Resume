@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/New-Resume/static/js/runtime~main.6cc8b17d.js"
   },
   {
-    "revision": "82fc8032e4eec0cd376d",
-    "url": "/New-Resume/static/js/main.82fc8032.chunk.js"
+    "revision": "b44f100a91bf61ddc34f",
+    "url": "/New-Resume/static/js/main.b44f100a.chunk.js"
   },
   {
-    "revision": "5fbbe378d4d42767c3bc",
-    "url": "/New-Resume/static/js/1.5fbbe378.chunk.js"
+    "revision": "f490a9a7b9c1e2d5e37a",
+    "url": "/New-Resume/static/js/1.f490a9a7.chunk.js"
   },
   {
-    "revision": "82fc8032e4eec0cd376d",
-    "url": "/New-Resume/static/css/main.3a317e7b.chunk.css"
+    "revision": "b44f100a91bf61ddc34f",
+    "url": "/New-Resume/static/css/main.c6c4b532.chunk.css"
   },
   {
-    "revision": "5fbbe378d4d42767c3bc",
+    "revision": "f490a9a7b9c1e2d5e37a",
     "url": "/New-Resume/static/css/1.16ddc00b.chunk.css"
   },
   {
-    "revision": "ce8633a9963e45d2ca395ab63c3ffc3f",
+    "revision": "78246a53a8f4c27c2e3bda380804a280",
     "url": "/New-Resume/index.html"
   }
 ];
