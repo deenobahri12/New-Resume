@@ -38,7 +38,7 @@ class Resume extends Component {
                  <p style={{fontSize: 21, fontFamily: 'oxygen'}}>deenobahri12@gmail.com</p>
                
                 <h4><i className="fa fa-file res" aria-hidden="true"/>Resume (PDF)</h4>
-                 <a style={{ backgroundColor: "", color: "green", fontSize: 20}} href="https://drive.google.com/open?id=1KMN73f9VZaWWUh3hTkK5W2TOhLS719au" target="_blank"><bold>RESUME</bold></a>
+                 <a style={{ backgroundColor: "", color: "green", fontSize: 20}} href="https://drive.google.com/open?id=1qt4UTS3s4xdIo75O7mzwkfD80xsX1w8V" target="_blank"><bold>RESUME</bold></a>
                 <hr style={{borderTop: '3px solid black', width: '50%'}}/>
                 </Cell>
 
@@ -47,35 +47,35 @@ class Resume extends Component {
                <h2>Skills</h2>
                 <Skills 
                 skill='JavaScript'
-                skills={100}
+                progress={90}
                 />
                 <Skills 
                 skill='HTML/CSS'
-                skills={100}
+                progress={90}              
                 />
                 <Skills 
                 skill='MERN Stack'
-                skills={100}
+                progress={85}
                 />
                  <Skills 
                 skill='Front End UI'
-                skills={100}
+                progress={85}
                 />
                 <Skills 
                 skill='Back End functionality'
-                skills={100}
+                progress={90}
                 />
                 <Skills 
                 skill='APIs'
-                skills={100}
+                progress={85}
                 />
                  <Skills 
                 skill='ServerSide Development'
-                skills={100}
+                progress={90}
                 />
                 <Skills 
                 skill='Databases'
-                skills={100}
+                progress={85}
                 />
                 <hr style={{borderTop: '3px solid #833fb2'}}/>
                 
@@ -87,10 +87,9 @@ class Resume extends Component {
                 jobDescription=
                 {<p>•Mern Stack Development 
                  <hr/>   
-                    •Heavy experience in JavaScript Application Development
+                    •JavaScript Application Development
                  <hr/>   
-                    •Solid base in python</p>}
-               
+                    •Solid base in Python</p>}
                />
                 <hr style={{borderTop: '3px solid #833fb2'}} />
                 <h2>Education</h2>

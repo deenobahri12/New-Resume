@@ -28,7 +28,6 @@ class App extends Component {
                 <Link to="/aboutme"><bold className="link2">About Me</bold></Link>
                 <Link to="/projects"><bold className="link2">Projects</bold></Link>
                 <Link to="/contact"><bold className="link2">Contact</bold></Link>
-                <Tab style={{fontSize: 20}} href="https://drive.google.com/open?id=1KMN73f9VZaWWUh3hTkK5W2TOhLS719au" target="_blank">Resume (PDF)</Tab>
            </Navigation>
         </Drawer>
         <Content>
