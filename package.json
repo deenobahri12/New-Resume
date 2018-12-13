@@ -2,7 +2,7 @@
   "name": "resume_1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://deenobahri12.github.io/New-Resume",
+  "homepage": "http://deenobahri12.github.io/New-Resume/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",

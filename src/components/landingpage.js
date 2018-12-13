@@ -18,7 +18,7 @@ class Landing extends Component {
                     
                 <hr/>
 
-                <p>Object-oriented programming | JavaScript | HTML/CSS | MERN Stack Development | APIs | Databases | SQL | Server Side</p>
+                <p>Object-oriented programming | JavaScript | HTML/CSS | MERN Stack Development | APIs | Databases | Server Side</p>
                 
                 <div className="social-links">
                 {/*Linkedin*/}
@@ -30,7 +30,7 @@ class Landing extends Component {
                     <i className="fa fa-github-square" aria-hidden="true" />
                 </a> 
                 {/*Mail(gmail)*/}
-                <a href="mailto:deenobahri12@gmail.comsubject=Email%20Subject&body=Email%20Body%20Text" rel="noopener noreferrer" target="_blank">
+                <a href="mailto:deenobahri12@gmail.com?subject=Email%20Subject&body=Email%20Body%20Text" rel="noopener noreferrer" target="_blank">
                     <i className="fa fa-envelope-square" aria-hidden="true" />
                 </a>
                 </div>
