@@ -90,6 +90,7 @@ color: #0077B5;
 
 .projects-grid{
   display: flex;
+  
 }
 
 .contact-body{
@@ -101,6 +102,7 @@ color: #0077B5;
   justify-content: center;
   padding-top: 2em;
 }
+
 
 .contact-grid{
   text-align: center;
@@ -159,4 +161,9 @@ padding: 2em;
 
 .res{
   padding-right: 10px;
+}
+
+.tech{
+  font-weight: 900;
+
 }

@@ -35,7 +35,7 @@ class About extends Component {
                     </p>
 
                     <p style={{fontSize: '20px', fontFamily: 'Arial, Helvetica, sans-serif'}}>
-                    The Coding boot camp has since enhanced my passion for software development. I learned all around software development, including the front and UI, backend functionality, databases, and server side development. My work ethic, motivation to continue learning, and commitment to my profession are strengths I pride myself in. 
+                    The Coding boot camp has since enhanced my passion for software development. I learned all around software development, including the front end UI, backend functionality, databases, and server side development. My work ethic, motivation to continue learning, and commitment to my profession are strengths I pride myself in. 
                     I have created a solid foundation to continue building upon my software development skills and ability. 
                     </p>
                     </Cell>
