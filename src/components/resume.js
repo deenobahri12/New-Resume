@@ -38,7 +38,7 @@ class Resume extends Component {
                  <p style={{fontSize: 21, fontFamily: 'oxygen'}}>deenobahri12@gmail.com</p>
                
                 <h4><i className="fa fa-file res" aria-hidden="true"/>Resume (PDF)</h4>
-                 <a style={{ backgroundColor: "", color: "green", fontSize: 20}} href="https://drive.google.com/open?id=1SMfAVauhZ9yzi7Iwxhky-ZT78xM3sLBm" target="_blank"><bold>RESUME</bold></a>
+                 <a style={{ backgroundColor: "", color: "green", fontSize: 20}} href="https://drive.google.com/open?id=1-mw57GzPGctP7hRDIOpvIqBg-PIEqCZ9" target="_blank"><bold>RESUME</bold></a>
                 <hr style={{borderTop: '3px solid black', width: '50%'}}/>
                 </Cell>
 
